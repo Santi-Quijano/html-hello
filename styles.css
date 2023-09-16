@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: Helvetica;
+}
+header {
+    text-align: center;
+}
+div.header {
+    padding: 10px;
+}
+div.header h2 {
+    margin: 0;
+    font-size: 20px;
+    display: inline-block;
+}
+div.description {
+    padding: 10px;
+}
+section {
+    background: lightgray;
+    padding-top: 60px; ;
+}
+.box {
+    width: 600px;
+    margin: auto; 
+    margin-bottom:50px;
+    margin-top: 50px;
+    background: white;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+}
+.box .header .date {
+    float: right;
+    margin: 0;
+}
+img {
+    width: 100%;
+}
+.date {
+    color:rgb(216, 203, 203);
+}
